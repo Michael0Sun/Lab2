@@ -1,4 +1,4 @@
-# Lab 2: Branching and Merging
+  # Lab 2: Branching and Merging
 
 The main topic of this first lab activity is branching and merging in git.
 
@@ -43,6 +43,7 @@ completed items so far) and `DataTypes.java` (remove the word TODO and your bug 
 you need to be currently on the branch you are trying to merge into, so we'll first checkout the main
 branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
+  # switch to main
   - Terminal: `git checkout main`
 Note: everything we've done has been local to our repository and have not pushed anything yet.
 - [ ] We are back on `main`, so we can now do the merge and complete our work!
